@@ -3,6 +3,7 @@
  */
 public class Author {
     private  String name;
+    private  String  LastName;
 
     public String getName() {
         return name;
